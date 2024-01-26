@@ -1,4 +1,4 @@
-
+# React-NFT-Marketplace-Dashboard
 
 ### Resources Used in This Project
 
@@ -14,7 +14,7 @@ Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
 [react-confetti](https://www.npmjs.com/package/react-confetti) <br />
 [react-use](https://www.npmjs.com/package/react-use) <br />
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
