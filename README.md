@@ -1,5 +1,7 @@
 # React-NFT-Marketplace-Dashboard
 
+![video](video.mp4)
+
 ### Resources Used in This Project
 
 Character Figures: https://bigheads.io/ <br />
