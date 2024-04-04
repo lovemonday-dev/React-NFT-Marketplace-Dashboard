@@ -1,6 +1,6 @@
 # React-NFT-Marketplace-Dashboard
 
-![video](video.mp4)
+![video](video.gif)
 
 ### Resources Used in This Project
 
